@@ -1,4 +1,5 @@
-[{
+[
+	{
 		"name": "PAPARA",
 		"type": "papara"
 	},
@@ -28,14 +29,6 @@
 			"BEP2",
 			"BEP20",
 			"ERC20"
-		]
-	},
-	{
-		"name": "SOLANA (SOL)",
-		"type": "crypto",
-		"networks": [
-			"Solana",
-			"BEP20"
 		]
 	},
 	{
