@@ -1,10 +1,12 @@
 [
 	{
 		"name": "PAPARA",
+		"short": "papara",
 		"type": "papara"
 	},
 	{
-		"name": "BITCOIN (BTC)",
+		"name": "BITCOIN",
+		"short": "BTC",
 		"type": "crypto",
 		"networks": [
 			"Bitcoin",
@@ -14,7 +16,8 @@
 		]
 	},
 	{
-		"name": "ETHERIUM (ETH)",
+		"name": "ETHERIUM",
+		"short": "ETH",
 		"type": "crypto",
 		"networks": [
 			"ERC20",
@@ -23,7 +26,8 @@
 		]
 	},
 	{
-		"name": "BINANCE COIN (BNB)",
+		"name": "BINANCE COIN",
+		"short": "BNB",
 		"type": "crypto",
 		"networks": [
 			"BEP2",
@@ -32,7 +36,8 @@
 		]
 	},
 	{
-		"name": "SOLANA (SOL)",
+		"name": "SOLANA",
+		"short": "SOL",
 		"type": "crypto",
 		"networks": [
 			"Solana",
@@ -40,7 +45,8 @@
 		]
 	},
 	{
-		"name": "BINANCE USD (BUSD)",
+		"name": "BINANCE USD",
+		"short": "BUSD",
 		"type": "crypto",
 		"networks": [
 			"ERC20",
@@ -49,7 +55,8 @@
 		]
 	},
 	{
-		"name": "TETHER (USDT)",
+		"name": "TETHER",
+		"short": "USDT",
 		"type": "crypto",
 		"networks": [
 			"ERC20",
@@ -60,7 +67,8 @@
 		]
 	},
 	{
-		"name": "USD COIN (USDC)",
+		"name": "USD COIN",
+		"short": "USDC",
 		"type": "crypto",
 		"networks": [
 			"ERC20",
