@@ -1,8 +1,6 @@
 [{
 		"name": "PAPARA",
-		"type": "papara",
-		"qrImgURL": "https://raw.githubusercontent.com/Tortudereli/TortudereliToolsCDN/main/donate/img/papara.png",
-		"desc": "1933877441"
+		"type": "papara"
 	},
 	{
 		"name": "BITCOIN (BTC)",
