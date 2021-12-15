@@ -2,7 +2,12 @@
 	{
 		"name": "PAPARA",
 		"short": "papara",
-		"type": "papara"
+		"type": "donate"
+	},
+	{
+		"name": "BINANCE PAY",
+		"short": "BinPay",
+		"type": "donate"
 	},
 	{
 		"name": "BITCOIN",

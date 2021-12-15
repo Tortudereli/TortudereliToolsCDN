@@ -4,6 +4,10 @@
             "address": 1933877441,
             "qrURL": "https://raw.githubusercontent.com/Tortudereli/TortudereliToolsCDN/main/donate/img/papara.png"
         },
+        "BinPay": {
+            "address": 115060619,
+            "qrURL": "https://raw.githubusercontent.com/Tortudereli/TortudereliToolsCDN/main/donate/img/BinancePay.jpg"
+        },
         "Bitcoin": {
             "address": "1EhYocU6zy1WhD2rZA5AxAXhSsWXVE4yhP",
             "qrURL": "https://raw.githubusercontent.com/Tortudereli/TortudereliToolsCDN/main/donate/img/Bitcoin.jpeg"
