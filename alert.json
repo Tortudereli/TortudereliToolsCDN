@@ -1,6 +1,6 @@
 {
-    "alertId": 2,
-    "message": "Deneme mesajı",
+    "alertId": 1,
+    "message": "EN:\nI removed the features that I deem unnecessary\nInventory can sometimes load slowly depending on the number of items you have. I will try to fix this issue in the future.\n\nTR:Gereksiz bulduğum özellikleri kaldırdımGereksiz bulduğum özellikleri kaldırdım.\nInventory, sahip olduğunuz şampiyon, kostüm vb. sayısına göre yavaş yükleniyor. İlerde bu sorunu çözeceğim.",
     "messageType": "info",
     "messageTitle": "Information"
 }
