@@ -1,3 +1,6 @@
 {
-    "alertId": 1
+    "alertId": 2,
+    "message": "Deneme mesajı",
+    "messageType": "info",
+    "messageTitle": "Information"
 }
