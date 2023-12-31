@@ -1,6 +1,6 @@
 {
-    "alertId": 2,
-    "message": "EN:\nVersion 3.1 released.\nNew features have been added to instalock and there have been a few changes.\n\nTR:\nVersiyon 3.1 yayınlandı.\nInstalock'a yeni özellikler eklendi ve birkaç değişiklik yapıldı.",
+    "alertId": 3,
+    "message": "v3.15 yayınlandı.\nUfak tefek değişiklikler yapıldı.",
     "messageType": "info",
     "messageTitle": "Information"
 }
